@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Video Games
+* Fast Food
+* Music
